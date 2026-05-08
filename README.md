@@ -9,8 +9,8 @@ I'm Nicolas - Developer. Gamer. Music lover.
 
 💻 I'm a Full Stack MERN developer, a self-learning IT enthusiast passionate about how computers work and their infinite possibilities.  
 🗃️ I worked at 1&1 with hosting and servers. I've also worked on personal projects, including cryptocurrency mining, which I still do.  
-📚 When I began my journey in software development, I realized this is where I can unleash all my potential.  
-💼 I'm currently working as a Full Stack developer at COTO.
+📚 When I began my journey in software development, I realized this is where I can unleash all my potential.
+💼 I've created projects in COTO for 3 years. Now I'm working as a Software Engineer at Light-It ⚡
 ***
 
 <img src="https://i.imgur.com/a2hPocf.gif" align="right" alt="Cozy bonfire GIF"></img>
@@ -74,7 +74,3 @@ I'm Nicolas - Developer. Gamer. Music lover.
 <a href="https://www.linkedin.com/in/nicolasbrusco" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/nicobrusco" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:nbruscodev@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/nbrusco"><img src="https://github-readme-stats.vercel.app/api?username=nbrusco&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="nbrusco's GitHub stats" /></a>
